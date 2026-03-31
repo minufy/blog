@@ -2,10 +2,11 @@
 
 ![image.png](image%205.png)
 
-| 날짜 | 2022-02-18 |
-| --- | --- |
-| 제출 | [https://itch.io/jam/mini-jam-100-overload/rate/1408945](https://itch.io/jam/mini-jam-100-overload/rate/1408945) |
-| 라이브러리 | pygame |
+| 날짜    | 2022-02-18                                                                                                       |
+| ----- | ---------------------------------------------------------------------------------------------------------------- |
+| 제출    | [https://itch.io/jam/mini-jam-100-overload/rate/1408945](https://itch.io/jam/mini-jam-100-overload/rate/1408945) |
+| 라이브러리 | pygame                                                                                                           |
+|       |                                                                                                                  |
 
 # 개요
 
