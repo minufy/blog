@@ -10,4 +10,4 @@ jobs:
       - uses: kognise/neocities-deploy-action@v1
         with:
           neocities_token: ${{ secrets.NEOCITIES_API_TOKEN }}
-          directory: "."
+          directory: "public/"
