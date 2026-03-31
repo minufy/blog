@@ -2,7 +2,6 @@
 body {
     margin: 0;
     line-height: 1.5em;
-    color: #333333;
     font-family: helvetica, arial, sans-serif;
 }
 
@@ -17,15 +16,24 @@ h1, h2, h3, h4, h5, h6 {
     margin-top: 1em;
 }
 
-a:link, a:visited {
-    color: #0000e0;
+a {
+    text-decoration: none;
+    color: #2c2c42;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* a:link, a:visited {
+    color: #2c2c427d;
     text-decoration: none
 }
 
 a:hover, a:active {
-    color: #0000ff;
+    color: #2c2c42;
     text-decoration: underline
-}
+} */
 
 
 /* Single column layout */
@@ -39,22 +47,17 @@ nav section, header section, main, footer section {
 
 /* Navigation panel */
 nav {
-    background: #333333;
-    border-bottom: thin solid #111111;
+    background: #2c2c42;
     line-height: 3em;
 }
 
+thead { 
+    background: #f1f1f1;
+}
+
 nav a {
+    color: white;
     margin-right: 1em;
-}
-
-nav a:link, nav a:visited {
-    color: #cccccc;
-}
-
-nav a:hover, nav a:active {
-    color: #ffffff;
-    text-decoration: none;
 }
 
 @media screen and (min-width: 600px) {
@@ -63,14 +66,13 @@ nav a:hover, nav a:active {
     }
 }
 
-
 /* Footer */
 footer {
-    background: #f0f0f0;
-    border-top: thin solid #e0e0e0;
+    background: #2c2c42;
+    color: white;
     margin-top: 2em;
     padding: 1em 0;
-    box-shadow: 0 100vh 0 100vh #f0f0f0;
+    box-shadow: 0 100vh 0 100vh #2c2c42;
     text-align: center;
 }
 
@@ -79,6 +81,7 @@ footer section p {
 }
 
 footer a {
+    color: white;
     margin-right: 1em;
 }
 
@@ -86,26 +89,13 @@ footer a:last-child {
     margin-right: 0;
 }
 
-
 /* Posts */
 article {
     margin-top: 1em;
     margin-bottom: 1em;
 }
 
-article h2 a:link, article h2 a:visited,
-article h1 a:link, article h1 a:visited,
-.more:link, .more:visited {
-    color: #333333;
-}
-
-article h2 a:hover, article h2 a:active,
-article h1 a:hover, article h1 a:active,
-.more:hover, .more:active {
-    color: #777777;
-}
-
-p.meta {
+/* p.meta {
     margin-top: 0;
     font-size: 0.8em;
     color: #777777;
@@ -115,12 +105,12 @@ p.meta {
 p.summary {
     margin-top: 0.25em;
     margin-bottom: 0.25em;
-}
+} */
 
-div .more {
+/* div .more {
     margin-top: 0;
     font-weight: bold;
-}
+} */
 
 
 /* RSS */

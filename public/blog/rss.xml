@@ -2,7 +2,7 @@
 <rss version="2.0">
 
 <channel>
-<title>Blog</title>
+<title>blog</title>
 <link>https://minufy.github.io/blog//</link>
 <description>Grow with Technology</description>
 
@@ -109,19 +109,6 @@
 ]]>
 </description>
 <pubDate>Fri, 14 Oct 2022 00:00:00 +0000</pubDate>
-</item>
-<item>
-<title>ZOMKILL 2022</title>
-<link>https://minufy.github.io/blog//blog/ZOMKILL 2022/</link>
-<description>
-<![CDATA[
-<p>
-날짜 2022-02-18 제출 https://itch.io/jam/mini-jam-100-overload/rate/1408945 라이브러리 pygame 개요 최초로 참여한 게임잼이다. 테마는 Overload 였고, 리미테이션은 Chaos is everything 이었다. 결과 Criteria Rank Score * Raw Score&nbsp;<a href="https://minufy.github.io/blog//blog/ZOMKILL 2022/">...</a>
-</p>
-<p><a href="https://minufy.github.io/blog//blog/ZOMKILL 2022/">Read More</a></p>
-]]>
-</description>
-<pubDate>Fri, 18 Feb 2022 00:00:00 +0000</pubDate>
 </item>
 
 

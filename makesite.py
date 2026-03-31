@@ -220,13 +220,13 @@ def main():
 
     # Create blog list pages.
     make_list(blog_posts, "public/blog/index.html",
-              list_layout, item_layout, blog="blog", title="Blog", **params)
+              list_layout, item_layout, blog="blog", title="blog", **params)
     # make_list(news_posts, "public/news/index.html",
     #           list_layout, item_layout, blog="news", title="News", **params)
 
     # Create RSS feeds.
     make_list(blog_posts, "public/blog/rss.xml",
-              feed_xml, item_xml, blog="blog", title="Blog", **params)
+              feed_xml, item_xml, blog="blog", title="blog", **params)
     # make_list(news_posts, "public/news/rss.xml",
     #           feed_xml, item_xml, blog="news", title="News", **params)
 
