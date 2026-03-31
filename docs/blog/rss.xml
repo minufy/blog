@@ -3,34 +3,112 @@
 
 <channel>
 <title>Blog</title>
-<link>http://localhost:8000/</link>
+<link>https://minufy.github.io/blog//</link>
 <description>Grow with Technology</description>
 
 <item>
-<title>Sed Finibus</title>
-<link>http://localhost:8000/blog/sed-finibus/</link>
+<title>DICEMASH</title>
+<link>https://minufy.github.io/blog//blog/DICEMASH/</link>
 <description>
 <![CDATA[
 <p>
-Sed finibus fermentum convallis. Sed consequat, lacus a pellentesque suscipit, lorem libero egestas dui, sit amet volutpat mi dolor sit amet nisl. Maecenas faucibus iaculis&nbsp;<a href="http://localhost:8000/blog/sed-finibus/">...</a>
+날짜 2025-12-08 제출 https://itch.io/jam/mini-jam-199-creation/rate/4100203 라이브러리 love2d 개요 주제는 Creation , 리미테이션은 Roll the dice 였다. 웨이브를 올라갈 때마다 주사위를 굴려서 숫자마다 고유한 스킬을 사용하는 게임을&nbsp;<a href="https://minufy.github.io/blog//blog/DICEMASH/">...</a>
 </p>
-<p><a href="http://localhost:8000/blog/sed-finibus/">Read More</a></p>
+<p><a href="https://minufy.github.io/blog//blog/DICEMASH/">Read More</a></p>
 ]]>
 </description>
-<pubDate>Wed, 03 Jan 2018 00:00:00 +0000</pubDate>
+<pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Proin Quam</title>
-<link>http://localhost:8000/blog/proin-quam/</link>
+<title>grape zone</title>
+<link>https://minufy.github.io/blog//blog/grape-zone/</link>
 <description>
 <![CDATA[
 <p>
-Proin quam urna, pulvinar id ipsum ac, mattis consectetur ante. Praesent non justo lectus. Duis egestas arcu libero, quis laoreet dolor volutpat ut. Donec facilisis&nbsp;<a href="http://localhost:8000/blog/proin-quam/">...</a>
+날짜 2025-11-07 제출 https://itch.io/jam/mini-jam-197-recursion/rate/4022229 라이브러리 love2d 개요 깃허브 테마는 재귀 , 리미테이션은 Mouse only 였다. 테마는 선택사항이기 때문에 사용하지 않았고, 리미테이션은 감옥탈출같은 마우스만을 이용한 게임플레이를&nbsp;<a href="https://minufy.github.io/blog//blog/grape-zone/">...</a>
 </p>
-<p><a href="http://localhost:8000/blog/proin-quam/">Read More</a></p>
+<p><a href="https://minufy.github.io/blog//blog/grape-zone/">Read More</a></p>
 ]]>
 </description>
-<pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+<pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>level_one</title>
+<link>https://minufy.github.io/blog//blog/level_one/</link>
+<description>
+<![CDATA[
+<p>
+날짜 2024-12-20 제출 https://itch.io/jam/mini-jam-174-defense/rate/3197426 라이브러리 love2d 개요 깃허브 처음으로 love2d 프레임워크를 사용한 게임이다. 테마는 Defense , 리미테이션은 Only one resource 였다. 테마는 사용하지 않았고, 리미테이션은&nbsp;<a href="https://minufy.github.io/blog//blog/level_one/">...</a>
+</p>
+<p><a href="https://minufy.github.io/blog//blog/level_one/">Read More</a></p>
+]]>
+</description>
+<pubDate>Fri, 20 Dec 2024 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>AIR time</title>
+<link>https://minufy.github.io/blog//blog/AIR-TIME/</link>
+<description>
+<![CDATA[
+<p>
+날짜 2023-04-07 제출 https://itch.io/jam/lame-jam-27/rate/2009415 라이브러리 pygame 개요 최초로 미니잼이 아닌 게임잼(lame jam)에 참여한 게임이다. 테마는 Playing with time 이었고, 공중에 있으면 시간이 멈추는 기믹을 만들었다.&nbsp;<a href="https://minufy.github.io/blog//blog/AIR-TIME/">...</a>
+</p>
+<p><a href="https://minufy.github.io/blog//blog/AIR-TIME/">Read More</a></p>
+]]>
+</description>
+<pubDate>Fri, 07 Apr 2023 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>BOSSCAT</title>
+<link>https://minufy.github.io/blog//blog/BOSSCAT/</link>
+<description>
+<![CDATA[
+<p>
+날짜 2023-03-03 제출 https://itch.io/jam/mini-jam-127-cats/rate/1955475 라이브러리 pygame 개요 테마는 고양이 , 리미테이션은 Use this Mini Jam's Color Palette 였다. 제공된 팔레트 결과 Criteria Rank Score *&nbsp;<a href="https://minufy.github.io/blog//blog/BOSSCAT/">...</a>
+</p>
+<p><a href="https://minufy.github.io/blog//blog/BOSSCAT/">Read More</a></p>
+]]>
+</description>
+<pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>X=SCORE</title>
+<link>https://minufy.github.io/blog//blog/X=SCORE/</link>
+<description>
+<![CDATA[
+<p>
+날짜 2023-01-20 제출 https://itch.io/jam/mini-jam-124-warmth/rate/1888751 라이브러리 pygame 개요 테마는 Warmth , 리미테이션은 Your score serves a purpose 였다. 점수가 게임의 X좌표에 대응하는 기믹을 통해 리미테이션을 구현했다.&nbsp;<a href="https://minufy.github.io/blog//blog/X=SCORE/">...</a>
+</p>
+<p><a href="https://minufy.github.io/blog//blog/X=SCORE/">Read More</a></p>
+]]>
+</description>
+<pubDate>Fri, 20 Jan 2023 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Soul Sweeper</title>
+<link>https://minufy.github.io/blog//blog/Soul-Sweeper/</link>
+<description>
+<![CDATA[
+<p>
+날짜 2022-10-14 제출 https://itch.io/jam/mini-jam-117-ghosts/rate/1748813 라이브러리 pygame 개요 테마는 유령 , 리미테이션은 Shotgun as a mechanic 이었다. 적을 유령으로 만들어 테마를 사용했고, 유령의 영혼을 총알로 이용하는&nbsp;<a href="https://minufy.github.io/blog//blog/Soul-Sweeper/">...</a>
+</p>
+<p><a href="https://minufy.github.io/blog//blog/Soul-Sweeper/">Read More</a></p>
+]]>
+</description>
+<pubDate>Fri, 14 Oct 2022 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>ZOMKILL 2022</title>
+<link>https://minufy.github.io/blog//blog/ZOMKILL 2022/</link>
+<description>
+<![CDATA[
+<p>
+날짜 2022-02-18 제출 https://itch.io/jam/mini-jam-100-overload/rate/1408945 라이브러리 pygame 개요 최초로 참여한 게임잼이다. 테마는 Overload 였고, 리미테이션은 Chaos is everything 이었다. 결과 Criteria Rank Score * Raw Score&nbsp;<a href="https://minufy.github.io/blog//blog/ZOMKILL 2022/">...</a>
+</p>
+<p><a href="https://minufy.github.io/blog//blog/ZOMKILL 2022/">Read More</a></p>
+]]>
+</description>
+<pubDate>Fri, 18 Feb 2022 00:00:00 +0000</pubDate>
 </item>
 
 
