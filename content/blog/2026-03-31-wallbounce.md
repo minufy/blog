@@ -17,6 +17,12 @@
 # 개발
 [giban](https://github.com/minufy/giban)을 수정한 [reban](https://github.com/minufy/reban)을 기반으로 개발했다.
 
+아이디어가 딱히 떠오르지 않아 아무거나 개발하던 중 플래피버드가 벽에 튕기면 재밌을거 같다는 생각이 나서 제작했다.
+
+그 이후로 벽, 가시, 코인을 구현하고 사운드도 추가했다.
+
+10일짜리 잼이지만 실제 개발 시간은 2일도 안한 것 같다.
+
 # 결과
 |Criteria|Rank|Score*|Raw Score|
 |---|---|---|---|
