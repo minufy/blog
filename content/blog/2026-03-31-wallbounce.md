@@ -2,8 +2,9 @@
 
 ![img.png](image-1.png)
 
-| 날짜 | 2026-03-18 |
+| | |
 | --- | --- |
+| 날짜 | 2026-03-18 |
 | 제출 | [https://itch.io/jam/love2d-jam-2026/rate/4401382](https://itch.io/jam/love2d-jam-2026/rate/4401382) |
 | 라이브러리 | love2d |
 
