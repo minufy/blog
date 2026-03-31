@@ -95,14 +95,14 @@ article {
     margin-bottom: 1em;
 }
 
-/* p.meta {
+p.meta {
     margin-top: 0;
     font-size: 0.8em;
-    color: #777777;
+    opacity: 0.7;
     font-style: italic;
 }
 
-p.summary {
+/* p.summary {
     margin-top: 0.25em;
     margin-bottom: 0.25em;
 } */
