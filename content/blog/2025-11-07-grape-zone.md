@@ -2,8 +2,9 @@
 
 ![grape zone.png](grape_zone.png)
 
-| 날짜 | 2025-11-07 |
+|  |  |
 | --- | --- |
+| 날짜 | 2025-11-07 |
 | 제출 | [https://itch.io/jam/mini-jam-197-recursion/rate/4022229](https://itch.io/jam/mini-jam-197-recursion/rate/4022229) |
 | 라이브러리 | love2d |
 
@@ -17,7 +18,7 @@
 
 # 개발
 
-지난 게임잼 [level_one](level_one%202a7d980c680a8133bcbdea8d621967a1.md) 이후로 love2d 프레임워크를 익히면서 다양한 프로젝트 템플릿을 제작 및 사용해왔는데, 이번에는 [giban](https://github.com/minufy/giban)이라는 템플릿을 사용해 개발을 진행했다.
+지난 게임잼 [level_one](/blog/level_one)이후로 love2d 프레임워크를 익히면서 다양한 프로젝트 템플릿을 제작 및 사용해왔는데, 이번에는 [giban](https://github.com/minufy/giban)이라는 템플릿을 사용해 개발을 진행했다.
 
 리미테이션을 보고 생각난 감옥탈출같은 마우스 피하기 게임을 제작했다.
 

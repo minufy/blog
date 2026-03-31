@@ -8,6 +8,10 @@
 | 라이브러리 | love2d |
 
 # 개요
+[깃허브](https://github.com/minufy/lovejam2026)
+
+최초로 참여해본 love2d jam이다.
+
 테마는 **Counter**였고, 사용하지 않았다.
 
 # 개발
