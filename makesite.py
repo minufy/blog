@@ -97,7 +97,7 @@ def read_content(filename):
 
     # Separate content from headers.
     text = text[end:]
-    text = text.replace("![image.png](", "![image.png](/docs/imgs/")
+    text = text.replace(".png](", ".png](/imgs/")
 
     # Convert Markdown content to HTML.
     if filename.endswith((".md", ".mkd", ".mkdn", ".mdown", ".markdown")):
@@ -169,19 +169,19 @@ def make_list(posts, dst, list_layout, item_layout, **params):
 def copy_imgs():
     """Copies images from blog folder."""
     for filename in os.listdir("content/blog"):
-        if filename.endswith((".png", "jpg", ".jpeg", ".webp")):
+        if filename.endswith((".png")):
             shutil.copy(f"content/blog/{filename}", "static/imgs/")
 
 def main():
-    # Create a new docs directory from scratch.
-    if os.path.isdir("docs"):   
-        shutil.rmtree("docs")
+    # Create a new public directory from scratch.
+    if os.path.isdir("public"):   
+        shutil.rmtree("public")
     copy_imgs()
-    shutil.copytree("static", "docs")
+    shutil.copytree("static", "public")
     
     # Default parameters.
     params = {
-        "base_path": "/docs",
+        "base_path": "",
         "subtitle": "minu의 블로그",
         "author": "minu",
         "site_url": "https://minufy.github.io/blog/",
@@ -205,29 +205,29 @@ def main():
     list_layout = render(page_layout, content=list_layout)
 
     # Create site pages.
-    make_pages("content/_index.html", "docs/index.html",
+    make_pages("content/_index.html", "public/index.html",
                page_layout, **params)
-    make_pages("content/[!_]*.html", "docs/{{ slug }}/index.html",
+    make_pages("content/[!_]*.html", "public/{{ slug }}/index.html",
                page_layout, **params)
 
     # Create blogs.
     blog_posts = make_pages("content/blog/*.md",
-                            "docs/blog/{{ slug }}/index.html",
+                            "public/blog/{{ slug }}/index.html",
                             post_layout, blog="blog", **params)
     # news_posts = make_pages("content/news/*.html",
-    #                         "docs/news/{{ slug }}/index.html",
+    #                         "public/news/{{ slug }}/index.html",
     #                         post_layout, blog="news", **params)
 
     # Create blog list pages.
-    make_list(blog_posts, "docs/blog/index.html",
+    make_list(blog_posts, "public/blog/index.html",
               list_layout, item_layout, blog="blog", title="Blog", **params)
-    # make_list(news_posts, "docs/news/index.html",
+    # make_list(news_posts, "public/news/index.html",
     #           list_layout, item_layout, blog="news", title="News", **params)
 
     # Create RSS feeds.
-    make_list(blog_posts, "docs/blog/rss.xml",
+    make_list(blog_posts, "public/blog/rss.xml",
               feed_xml, item_xml, blog="blog", title="Blog", **params)
-    # make_list(news_posts, "docs/news/rss.xml",
+    # make_list(news_posts, "public/news/rss.xml",
     #           feed_xml, item_xml, blog="news", title="News", **params)
 
 
