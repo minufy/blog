@@ -1,5 +1,31 @@
-<h1>{{ title }}</h1>
+<h1 style="display: inline-block;">{{ title }}</h1>
+<input style="display: inline; margin-left: 1em;" type="text" id="query" placeholder="태그 검색" autocomplete="none">
 {{ content }}
+<script>
+    let queryInput = document.getElementById("query");
+    let params = new URLSearchParams(document.location.search);
+    function init() {
+        queryInput.value = params.get("query");
+        let value = queryInput.value.trim();
+        if (value == ""){
+            return;
+        }
+        document.querySelectorAll("article").forEach(function(e) {
+            e.style.display = "none";
+        })
+        let found = document.querySelectorAll(`[id*="${value}"]`);
+        found.forEach(function(e) {
+            e.parentNode.style.display = "block";
+        })
+    }
+    function queryUpdate(e) {
+        let value = queryInput.value;
+        params.set("query", value);
+        document.location.search = params;
+    }
+    init();
+    queryInput.addEventListener("change", e => queryUpdate(e))
+</script>
 <section>
 <a class="rss" href="{{ base_path }}/{{ blog }}/rss.xml">RSS</a>
 </section>
