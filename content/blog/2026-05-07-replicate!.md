@@ -1,7 +1,7 @@
 <!-- title: replicate! -->
 <!-- tags: #gamejam -->
 
-![thumb](image-2.png)
+![thumb.png](image-2.png)
 
 | | |
 | --- | --- |
