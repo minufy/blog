@@ -5,7 +5,7 @@
 
 | | |
 | --- | --- |
-| 날짜 | 2025-05-07 |
+| 날짜 | 2026-05-07 |
 | 제출 | [https://minufy.itch.io/replicate](https://minufy.itch.io/replicate) |
 | 라이브러리 | love2d |
 
