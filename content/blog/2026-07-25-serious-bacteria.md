@@ -6,7 +6,7 @@
 | | |
 | --- | --- |
 | 날짜 | 2026-07-25 |
-| 제출 | |
+| 제출 | [https://itch.io/jam/gmtk-jam-2026/rate/4814597](https://itch.io/jam/gmtk-jam-2026/rate/4814597) |
 | 라이브러리 | love2d |
 
 # 개요
