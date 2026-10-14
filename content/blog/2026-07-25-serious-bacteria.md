@@ -36,4 +36,10 @@
 *완성된 레벨의 모습*
 
 # 결과
-TBA
+|Criteria|Rank|Score*|Raw Score|
+|---|---|---|---|
+|[Enjoyment](https://itch.io/jam/gmtk-jam-2026/results/enjoyment)|#754|3.857|3.857|
+|[Audio](https://itch.io/jam/gmtk-jam-2026/results/audio)|#1497|3.429|3.429|
+|[Artwork](https://itch.io/jam/gmtk-jam-2026/results/artwork)|#1724|3.786|3.786|
+|[Creativity](https://itch.io/jam/gmtk-jam-2026/results/creativity)|#5306|3.107|3.107|
+|[Narrative](https://itch.io/jam/gmtk-jam-2026/results/narrative)|#7051|2.000|2.000|
