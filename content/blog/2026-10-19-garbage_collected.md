@@ -18,5 +18,7 @@ mini jame gam 60 참여작이다.
 
 [초기 기획 구글 닥스](https://docs.google.com/document/d/1vtgyOyW8GbI_BX1GqGD4tsTfFl_hT4vVTYy--S6GFyM/edit?usp=sharing)
 
+[소스](https://github.com/minufy/jamegam60)
+
 # 결과
 TBA
