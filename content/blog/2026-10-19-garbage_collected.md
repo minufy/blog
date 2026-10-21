@@ -21,4 +21,12 @@ mini jame gam 60 참여작이다.
 [소스](https://github.com/minufy/jamegam60)
 
 # 결과
-TBA
+|Criteria|Rank|Score*|Raw Score|
+|---|---|---|---|
+|[Fun Factor](https://itch.io/jam/mini-jame-gam-60/results/fun-factor)|#1|4.400|4.400|
+|[Gameplay](https://itch.io/jam/mini-jame-gam-60/results/gameplay)|#2|4.400|4.400|
+|[Visuals](https://itch.io/jam/mini-jame-gam-60/results/visuals)|#5|4.533|4.533|
+|Overall|#5|4.033|4.033|
+|[Audio](https://itch.io/jam/mini-jame-gam-60/results/audio)|#12|3.733|3.733|
+|[Theme Implementation](https://itch.io/jam/mini-jame-gam-60/results/theme-implementation)|#43|3.733|3.733|
+|[Special Object Implementation](https://itch.io/jam/mini-jame-gam-60/results/special-object-implementation)|#63|3.400|3.400|
