@@ -19,4 +19,10 @@ mini jam 222 참여작이다.
 아이디어 없어서 그냥 즉흥으로 개발했다.
 
 # 결과
-TBA
+|Criteria|Rank|Score*|Raw Score|
+|---|---|---|---|
+|[Enjoyment](https://itch.io/jam/mini-jam-222-enchanted/results/enjoyment)|#1|4.154|4.154|
+|[Presentation](https://itch.io/jam/mini-jam-222-enchanted/results/presentation)|#3|4.462|4.462|
+|Overall|#17|3.500|3.500|
+|[Concept](https://itch.io/jam/mini-jam-222-enchanted/results/concept)|#28|3.231|3.231|
+|[Use of the Limitation](https://itch.io/jam/mini-jam-222-enchanted/results/use-of-the-limitation)|#55|2.154|2.154|
